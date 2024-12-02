@@ -1,0 +1,4261 @@
+{
+  "hash": "99d0a6b87a80e1c9c1d2",
+  "version": "5.96.1",
+  "time": 17852,
+  "builtAt": 1733019537189,
+  "publicPath": "auto",
+  "outputPath": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\analyze",
+  "assetsByChunkName": {
+    "static\\chunks\\724-faecb326ddbc4603.js": [
+      "static\\chunks\\724-faecb326ddbc4603.js"
+    ],
+    "static\\chunks\\783-a543962db09c6e10.js": [
+      "static\\chunks\\783-a543962db09c6e10.js"
+    ],
+    "static\\chunks\\864-06470e952bd010c8.js": [
+      "static\\chunks\\864-06470e952bd010c8.js"
+    ],
+    "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js": [
+      "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js"
+    ],
+    "static\\chunks\\app\\error-ae7d2009954bb063.js": [
+      "static\\chunks\\app\\error-ae7d2009954bb063.js"
+    ],
+    "static\\chunks\\app\\layout-f0d02442d9637434.js": [
+      "static\\chunks\\app\\layout-f0d02442d9637434.js"
+    ],
+    "static\\chunks\\app\\not-found-81b916937c5d460a.js": [
+      "static\\chunks\\app\\not-found-81b916937c5d460a.js"
+    ],
+    "static\\chunks\\app\\page-17c84bb64e1b9246.js": [
+      "static\\chunks\\app\\page-17c84bb64e1b9246.js"
+    ],
+    "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js": [
+      "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js"
+    ],
+    "static\\chunks\\framework-8883d1e9be70c3da.js": [
+      "static\\chunks\\framework-8883d1e9be70c3da.js"
+    ],
+    "static\\chunks\\main-app-30b15ee52aba41ef.js": [
+      "static\\chunks\\main-app-30b15ee52aba41ef.js"
+    ],
+    "static\\chunks\\main-c1ecd3cc57acaf13.js": [
+      "static\\chunks\\main-c1ecd3cc57acaf13.js"
+    ],
+    "static\\chunks\\pages\\_app-27277a117f49dcf1.js": [
+      "static\\chunks\\pages\\_app-27277a117f49dcf1.js"
+    ],
+    "static\\chunks\\pages\\_error-91a5938854a6f402.js": [
+      "static\\chunks\\pages\\_error-91a5938854a6f402.js"
+    ],
+    "static\\chunks\\polyfills-c67a75d1b6f99dc8.js": [
+      "static\\chunks\\polyfills-c67a75d1b6f99dc8.js"
+    ],
+    "static\\chunks\\webpack-8c7d3301aa95f133.js": [
+      "static\\chunks\\webpack-8c7d3301aa95f133.js"
+    ],
+    "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js": [
+      "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js"
+    ],
+    "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js": [
+      "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+      "size": 162203,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js.LICENSE.txt"
+        },
+        "size": 162203
+      },
+      "chunkNames": [
+        "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js.LICENSE.txt",
+          "size": 243,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 243
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        469
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\framework-8883d1e9be70c3da.js",
+      "size": 138972,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "static\\chunks\\framework-8883d1e9be70c3da.js.LICENSE.txt"
+        },
+        "size": 138972
+      },
+      "chunkNames": [
+        "static\\chunks\\framework-8883d1e9be70c3da.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "static\\chunks\\framework-8883d1e9be70c3da.js.LICENSE.txt",
+          "size": 721,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 721
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        394
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+      "size": 108302,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 108302
+      },
+      "chunkNames": [
+        "static\\chunks\\main-c1ecd3cc57acaf13.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        392
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\864-06470e952bd010c8.js",
+      "size": 102684,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "static\\chunks\\864-06470e952bd010c8.js.LICENSE.txt"
+        },
+        "size": 102684
+      },
+      "chunkNames": [
+        "static\\chunks\\864-06470e952bd010c8.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "static\\chunks\\864-06470e952bd010c8.js.LICENSE.txt",
+          "size": 757,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 757
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        235
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+      "size": 91936,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 91936
+      },
+      "chunkNames": [
+        "static\\chunks\\polyfills-c67a75d1b6f99dc8.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        920
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\783-a543962db09c6e10.js",
+      "size": 47998,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "static\\chunks\\783-a543962db09c6e10.js.LICENSE.txt"
+        },
+        "size": 47998
+      },
+      "chunkNames": [
+        "static\\chunks\\783-a543962db09c6e10.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "static\\chunks\\783-a543962db09c6e10.js.LICENSE.txt",
+          "size": 425,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 425
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        209
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\724-faecb326ddbc4603.js",
+      "size": 20247,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 20247
+      },
+      "chunkNames": [
+        "static\\chunks\\724-faecb326ddbc4603.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        662
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+      "size": 14340,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 14340
+      },
+      "chunkNames": [
+        "static\\chunks\\app\\page-17c84bb64e1b9246.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        161
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+      "size": 7470,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 7470
+      },
+      "chunkNames": [
+        "static\\chunks\\app\\layout-f0d02442d9637434.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        428
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+      "size": 7144,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js.LICENSE.txt"
+        },
+        "size": 7144
+      },
+      "chunkNames": [
+        "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js.LICENSE.txt",
+          "size": 425,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 425
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        154
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+      "size": 3722,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 3722
+      },
+      "chunkNames": [
+        "static\\chunks\\webpack-8c7d3301aa95f133.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        976
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+      "size": 1561,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "static\\chunks\\app\\error-ae7d2009954bb063.js.LICENSE.txt"
+        },
+        "size": 1561
+      },
+      "chunkNames": [
+        "static\\chunks\\app\\error-ae7d2009954bb063.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "static\\chunks\\app\\error-ae7d2009954bb063.js.LICENSE.txt",
+          "size": 251,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 251
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        583
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+      "size": 465,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 465
+      },
+      "chunkNames": [
+        "static\\chunks\\main-app-30b15ee52aba41ef.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        764
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+      "size": 282,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 282
+      },
+      "chunkNames": [
+        "static\\chunks\\pages\\_app-27277a117f49dcf1.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        111
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+      "size": 249,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 249
+      },
+      "chunkNames": [
+        "static\\chunks\\pages\\_error-91a5938854a6f402.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        278
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+      "size": 224,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 224
+      },
+      "chunkNames": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        582
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+      "size": 214,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 214
+      },
+      "chunkNames": [
+        "static\\chunks\\app\\not-found-81b916937c5d460a.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        275
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+      "size": 81,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 81
+      },
+      "chunkNames": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [
+        921
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 280,
+      "sizes": {
+        "javascript": 280
+      },
+      "names": [
+        "static\\chunks\\pages\\_app-27277a117f49dcf1.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\pages\\_app-27277a117f49dcf1.js"
+      ],
+      "files": [
+        "static\\chunks\\pages\\_app-27277a117f49dcf1.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e96327f21c310be4d80e",
+      "childrenByOrder": {},
+      "id": 111,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 280,
+          "sizes": {
+            "javascript": 280
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "name": "./.next/static/chunks/pages/_app-27277a117f49dcf1.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "index": 12,
+          "preOrderIndex": 12,
+          "index2": 12,
+          "postOrderIndex": 12,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 748,
+          "issuerId": null,
+          "chunks": [
+            111
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+              "loc": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-280",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 8024,
+      "sizes": {
+        "javascript": 8024
+      },
+      "names": [
+        "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js"
+      ],
+      "files": [
+        "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "13a8df86f2d1a0170284",
+      "childrenByOrder": {},
+      "id": 154,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 8024,
+          "sizes": {
+            "javascript": 8024
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "name": "./.next/static/chunks/app/apply/page-1e0ed49c2fdee981.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 874,
+          "issuerId": null,
+          "chunks": [
+            154
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+              "loc": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-29:732",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 14436,
+      "sizes": {
+        "javascript": 14436
+      },
+      "names": [
+        "static\\chunks\\app\\page-17c84bb64e1b9246.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\app\\page-17c84bb64e1b9246.js"
+      ],
+      "files": [
+        "static\\chunks\\app\\page-17c84bb64e1b9246.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "11912d51413554640a1d",
+      "childrenByOrder": {},
+      "id": 161,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 14436,
+          "sizes": {
+            "javascript": 14436
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "name": "./.next/static/chunks/app/page-17c84bb64e1b9246.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "index": 7,
+          "preOrderIndex": 7,
+          "index2": 7,
+          "postOrderIndex": 7,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 402,
+          "issuerId": null,
+          "chunks": [
+            161
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js",
+              "loc": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-14402",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 50214,
+      "sizes": {
+        "javascript": 50214
+      },
+      "names": [
+        "static\\chunks\\783-a543962db09c6e10.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\783-a543962db09c6e10.js"
+      ],
+      "files": [
+        "static\\chunks\\783-a543962db09c6e10.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9b6d4998722691166caa",
+      "childrenByOrder": {},
+      "id": 209,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 50214,
+          "sizes": {
+            "javascript": 50214
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js",
+          "name": "./.next/static/chunks/783-a543962db09c6e10.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 905,
+          "issuerId": null,
+          "chunks": [
+            209
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js",
+              "loc": "static\\chunks\\783-a543962db09c6e10.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-69:29068",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\783-a543962db09c6e10.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 103484,
+      "sizes": {
+        "javascript": 103484
+      },
+      "names": [
+        "static\\chunks\\864-06470e952bd010c8.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\864-06470e952bd010c8.js"
+      ],
+      "files": [
+        "static\\chunks\\864-06470e952bd010c8.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e0ddb8c9ae9451853aee",
+      "childrenByOrder": {},
+      "id": 235,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 103484,
+          "sizes": {
+            "javascript": 103484
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js",
+          "name": "./.next/static/chunks/864-06470e952bd010c8.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 235,
+          "issuerId": null,
+          "chunks": [
+            235
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js",
+              "loc": "static\\chunks\\864-06470e952bd010c8.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-25:6962",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\864-06470e952bd010c8.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 212,
+      "sizes": {
+        "javascript": 212
+      },
+      "names": [
+        "static\\chunks\\app\\not-found-81b916937c5d460a.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\app\\not-found-81b916937c5d460a.js"
+      ],
+      "files": [
+        "static\\chunks\\app\\not-found-81b916937c5d460a.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "490abe23ec7b19249be9",
+      "childrenByOrder": {},
+      "id": 275,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 212,
+          "sizes": {
+            "javascript": 212
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "name": "./.next/static/chunks/app/not-found-81b916937c5d460a.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "index": 6,
+          "preOrderIndex": 6,
+          "index2": 6,
+          "postOrderIndex": 6,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 558,
+          "issuerId": null,
+          "chunks": [
+            275
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js",
+              "loc": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-212",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 247,
+      "sizes": {
+        "javascript": 247
+      },
+      "names": [
+        "static\\chunks\\pages\\_error-91a5938854a6f402.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\pages\\_error-91a5938854a6f402.js"
+      ],
+      "files": [
+        "static\\chunks\\pages\\_error-91a5938854a6f402.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "a12b3d95a0478991ff72",
+      "childrenByOrder": {},
+      "id": 278,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 247,
+          "sizes": {
+            "javascript": 247
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "name": "./.next/static/chunks/pages/_error-91a5938854a6f402.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "index": 13,
+          "preOrderIndex": 13,
+          "index2": 13,
+          "postOrderIndex": 13,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 361,
+          "issuerId": null,
+          "chunks": [
+            278
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js",
+              "loc": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-247",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 108277,
+      "sizes": {
+        "javascript": 108277
+      },
+      "names": [
+        "static\\chunks\\main-c1ecd3cc57acaf13.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\main-c1ecd3cc57acaf13.js"
+      ],
+      "files": [
+        "static\\chunks\\main-c1ecd3cc57acaf13.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f35cdb6fdf1a744b8444",
+      "childrenByOrder": {},
+      "id": 392,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 108277,
+          "sizes": {
+            "javascript": 108277
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "name": "./.next/static/chunks/main-c1ecd3cc57acaf13.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "index": 11,
+          "preOrderIndex": 11,
+          "index2": 11,
+          "postOrderIndex": 11,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 960,
+          "issuerId": null,
+          "chunks": [
+            392
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js",
+              "loc": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-108277",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 140112,
+      "sizes": {
+        "javascript": 140112
+      },
+      "names": [
+        "static\\chunks\\framework-8883d1e9be70c3da.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\framework-8883d1e9be70c3da.js"
+      ],
+      "files": [
+        "static\\chunks\\framework-8883d1e9be70c3da.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2d0f68705ac58b53a4f3",
+      "childrenByOrder": {},
+      "id": 394,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 140112,
+          "sizes": {
+            "javascript": 140112
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js",
+          "name": "./.next/static/chunks/framework-8883d1e9be70c3da.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js",
+          "index": 9,
+          "preOrderIndex": 9,
+          "index2": 9,
+          "postOrderIndex": 9,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 346,
+          "issuerId": null,
+          "chunks": [
+            394
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js",
+              "loc": "static\\chunks\\framework-8883d1e9be70c3da.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:13-25:3833",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\framework-8883d1e9be70c3da.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 7465,
+      "sizes": {
+        "javascript": 7465
+      },
+      "names": [
+        "static\\chunks\\app\\layout-f0d02442d9637434.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\app\\layout-f0d02442d9637434.js"
+      ],
+      "files": [
+        "static\\chunks\\app\\layout-f0d02442d9637434.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "91c6e91ec3ae9d9f4046",
+      "childrenByOrder": {},
+      "id": 428,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 7465,
+          "sizes": {
+            "javascript": 7465
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "name": "./.next/static/chunks/app/layout-f0d02442d9637434.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 83,
+          "issuerId": null,
+          "chunks": [
+            428
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js",
+              "loc": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-7465",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 162891,
+      "sizes": {
+        "javascript": 162891
+      },
+      "names": [
+        "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js"
+      ],
+      "files": [
+        "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "98c620cf908c3d1abbd0",
+      "childrenByOrder": {},
+      "id": 469,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 162891,
+          "sizes": {
+            "javascript": 162891
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "name": "./.next/static/chunks/fd9d1056-a4abffa2c91dfa48.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "index": 8,
+          "preOrderIndex": 8,
+          "index2": 8,
+          "postOrderIndex": 8,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 77,
+          "issuerId": null,
+          "chunks": [
+            469
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+              "loc": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:13-9:162555",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 224,
+      "sizes": {
+        "javascript": 224
+      },
+      "names": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js"
+      ],
+      "files": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7a65b3ac902d9e2e199a",
+      "childrenByOrder": {},
+      "id": 582,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 224,
+          "sizes": {
+            "javascript": 224
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "name": "./.next/static/PDArBR3lE2BvOfrNrsrXE/_buildManifest.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "index": 16,
+          "preOrderIndex": 16,
+          "index2": 16,
+          "postOrderIndex": 16,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 520,
+          "issuerId": null,
+          "chunks": [
+            582
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+              "loc": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-224",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 1729,
+      "sizes": {
+        "javascript": 1729
+      },
+      "names": [
+        "static\\chunks\\app\\error-ae7d2009954bb063.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\app\\error-ae7d2009954bb063.js"
+      ],
+      "files": [
+        "static\\chunks\\app\\error-ae7d2009954bb063.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "79768c5add4c21c624dc",
+      "childrenByOrder": {},
+      "id": 583,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 1729,
+          "sizes": {
+            "javascript": 1729
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "name": "./.next/static/chunks/app/error-ae7d2009954bb063.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 122,
+          "issuerId": null,
+          "chunks": [
+            583
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js",
+              "loc": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-9:688",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 20219,
+      "sizes": {
+        "javascript": 20219
+      },
+      "names": [
+        "static\\chunks\\724-faecb326ddbc4603.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\724-faecb326ddbc4603.js"
+      ],
+      "files": [
+        "static\\chunks\\724-faecb326ddbc4603.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d204454548019ad08f10",
+      "childrenByOrder": {},
+      "id": 662,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 20219,
+          "sizes": {
+            "javascript": 20219
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js",
+          "name": "./.next/static/chunks/724-faecb326ddbc4603.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 342,
+          "issuerId": null,
+          "chunks": [
+            662
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js",
+              "loc": "static\\chunks\\724-faecb326ddbc4603.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:13-20219",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\724-faecb326ddbc4603.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 463,
+      "sizes": {
+        "javascript": 463
+      },
+      "names": [
+        "static\\chunks\\main-app-30b15ee52aba41ef.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\main-app-30b15ee52aba41ef.js"
+      ],
+      "files": [
+        "static\\chunks\\main-app-30b15ee52aba41ef.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "02566e7511f004ae17f8",
+      "childrenByOrder": {},
+      "id": 764,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 463,
+          "sizes": {
+            "javascript": 463
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "name": "./.next/static/chunks/main-app-30b15ee52aba41ef.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "index": 10,
+          "preOrderIndex": 10,
+          "index2": 10,
+          "postOrderIndex": 10,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 564,
+          "issuerId": null,
+          "chunks": [
+            764
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js",
+              "loc": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-463",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 91681,
+      "sizes": {
+        "javascript": 91460,
+        "runtime": 221
+      },
+      "names": [
+        "static\\chunks\\polyfills-c67a75d1b6f99dc8.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\polyfills-c67a75d1b6f99dc8.js"
+      ],
+      "files": [
+        "static\\chunks\\polyfills-c67a75d1b6f99dc8.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "898326ef63e7a946c154",
+      "childrenByOrder": {},
+      "id": 920,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 91460,
+          "sizes": {
+            "javascript": 91460
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "name": "./.next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "index": 14,
+          "preOrderIndex": 14,
+          "index2": 14,
+          "postOrderIndex": 14,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 544,
+          "issuerId": null,
+          "chunks": [
+            920
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+              "loc": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-91412",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 221,
+          "sizes": {
+            "runtime": 221
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/global",
+          "name": "webpack/runtime/global",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            920
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 80,
+      "sizes": {
+        "javascript": 80
+      },
+      "names": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js"
+      ],
+      "files": [
+        "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "801b62f3490ec5725cb6",
+      "childrenByOrder": {},
+      "id": 921,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 80,
+          "sizes": {
+            "javascript": 80
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "name": "./.next/static/PDArBR3lE2BvOfrNrsrXE/_ssgManifest.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "index": 17,
+          "preOrderIndex": 17,
+          "index2": 17,
+          "postOrderIndex": 17,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 139,
+          "issuerId": null,
+          "chunks": [
+            921
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+              "loc": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-32",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 3718,
+      "sizes": {
+        "javascript": 3718
+      },
+      "names": [
+        "static\\chunks\\webpack-8c7d3301aa95f133.js"
+      ],
+      "idHints": [],
+      "runtime": [
+        "static\\chunks\\webpack-8c7d3301aa95f133.js"
+      ],
+      "files": [
+        "static\\chunks\\webpack-8c7d3301aa95f133.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "31a2974cf65fc934cbe7",
+      "childrenByOrder": {},
+      "id": 976,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "layer": null,
+          "size": 3718,
+          "sizes": {
+            "javascript": 3718
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "name": "./.next/static/chunks/webpack-8c7d3301aa95f133.js",
+          "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "index": 15,
+          "preOrderIndex": 15,
+          "index2": 15,
+          "postOrderIndex": 15,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 472,
+          "issuerId": null,
+          "chunks": [
+            976
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js",
+              "loc": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": null,
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-3718",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "request": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 20219,
+      "sizes": {
+        "javascript": 20219
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js",
+      "name": "./.next/static/chunks/724-faecb326ddbc4603.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 342,
+      "issuerId": null,
+      "chunks": [
+        662
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\724-faecb326ddbc4603.js",
+          "loc": "static\\chunks\\724-faecb326ddbc4603.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:13-20219",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 50214,
+      "sizes": {
+        "javascript": 50214
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js",
+      "name": "./.next/static/chunks/783-a543962db09c6e10.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 905,
+      "issuerId": null,
+      "chunks": [
+        209
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\783-a543962db09c6e10.js",
+          "loc": "static\\chunks\\783-a543962db09c6e10.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-69:29068",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 103484,
+      "sizes": {
+        "javascript": 103484
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js",
+      "name": "./.next/static/chunks/864-06470e952bd010c8.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 235,
+      "issuerId": null,
+      "chunks": [
+        235
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\864-06470e952bd010c8.js",
+          "loc": "static\\chunks\\864-06470e952bd010c8.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-25:6962",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 8024,
+      "sizes": {
+        "javascript": 8024
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+      "name": "./.next/static/chunks/app/apply/page-1e0ed49c2fdee981.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 874,
+      "issuerId": null,
+      "chunks": [
+        154
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "loc": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-29:732",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 1729,
+      "sizes": {
+        "javascript": 1729
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js",
+      "name": "./.next/static/chunks/app/error-ae7d2009954bb063.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 122,
+      "issuerId": null,
+      "chunks": [
+        583
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "loc": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-9:688",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 7465,
+      "sizes": {
+        "javascript": 7465
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js",
+      "name": "./.next/static/chunks/app/layout-f0d02442d9637434.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 83,
+      "issuerId": null,
+      "chunks": [
+        428
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "loc": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-7465",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 212,
+      "sizes": {
+        "javascript": 212
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js",
+      "name": "./.next/static/chunks/app/not-found-81b916937c5d460a.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 558,
+      "issuerId": null,
+      "chunks": [
+        275
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "loc": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-212",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 14436,
+      "sizes": {
+        "javascript": 14436
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js",
+      "name": "./.next/static/chunks/app/page-17c84bb64e1b9246.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 402,
+      "issuerId": null,
+      "chunks": [
+        161
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "loc": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-14402",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 162891,
+      "sizes": {
+        "javascript": 162891
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+      "name": "./.next/static/chunks/fd9d1056-a4abffa2c91dfa48.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 8,
+      "postOrderIndex": 8,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 77,
+      "issuerId": null,
+      "chunks": [
+        469
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "loc": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:13-9:162555",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 140112,
+      "sizes": {
+        "javascript": 140112
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js",
+      "name": "./.next/static/chunks/framework-8883d1e9be70c3da.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js",
+      "index": 9,
+      "preOrderIndex": 9,
+      "index2": 9,
+      "postOrderIndex": 9,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 346,
+      "issuerId": null,
+      "chunks": [
+        394
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\framework-8883d1e9be70c3da.js",
+          "loc": "static\\chunks\\framework-8883d1e9be70c3da.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:13-25:3833",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 463,
+      "sizes": {
+        "javascript": 463
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js",
+      "name": "./.next/static/chunks/main-app-30b15ee52aba41ef.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js",
+      "index": 10,
+      "preOrderIndex": 10,
+      "index2": 10,
+      "postOrderIndex": 10,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 564,
+      "issuerId": null,
+      "chunks": [
+        764
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "loc": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-463",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 108277,
+      "sizes": {
+        "javascript": 108277
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js",
+      "name": "./.next/static/chunks/main-c1ecd3cc57acaf13.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js",
+      "index": 11,
+      "preOrderIndex": 11,
+      "index2": 11,
+      "postOrderIndex": 11,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 960,
+      "issuerId": null,
+      "chunks": [
+        392
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "loc": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-108277",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 280,
+      "sizes": {
+        "javascript": 280
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+      "name": "./.next/static/chunks/pages/_app-27277a117f49dcf1.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+      "index": 12,
+      "preOrderIndex": 12,
+      "index2": 12,
+      "postOrderIndex": 12,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 748,
+      "issuerId": null,
+      "chunks": [
+        111
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "loc": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-280",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 247,
+      "sizes": {
+        "javascript": 247
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js",
+      "name": "./.next/static/chunks/pages/_error-91a5938854a6f402.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js",
+      "index": 13,
+      "preOrderIndex": 13,
+      "index2": 13,
+      "postOrderIndex": 13,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 361,
+      "issuerId": null,
+      "chunks": [
+        278
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "loc": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-247",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 91460,
+      "sizes": {
+        "javascript": 91460
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+      "name": "./.next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+      "index": 14,
+      "preOrderIndex": 14,
+      "index2": 14,
+      "postOrderIndex": 14,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 544,
+      "issuerId": null,
+      "chunks": [
+        920
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "loc": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-91412",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 3718,
+      "sizes": {
+        "javascript": 3718
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js",
+      "name": "./.next/static/chunks/webpack-8c7d3301aa95f133.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js",
+      "index": 15,
+      "preOrderIndex": 15,
+      "index2": 15,
+      "postOrderIndex": 15,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 472,
+      "issuerId": null,
+      "chunks": [
+        976
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "loc": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-3718",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 224,
+      "sizes": {
+        "javascript": 224
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+      "name": "./.next/static/PDArBR3lE2BvOfrNrsrXE/_buildManifest.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+      "index": 16,
+      "preOrderIndex": 16,
+      "index2": 16,
+      "postOrderIndex": 16,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 520,
+      "issuerId": null,
+      "chunks": [
+        582
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "loc": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-224",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "layer": null,
+      "size": 80,
+      "sizes": {
+        "javascript": 80
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "javascript/dynamic|c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+      "name": "./.next/static/PDArBR3lE2BvOfrNrsrXE/_ssgManifest.js",
+      "nameForCondition": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+      "index": 17,
+      "preOrderIndex": 17,
+      "index2": 17,
+      "postOrderIndex": 17,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 139,
+      "issuerId": null,
+      "chunks": [
+        921
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "c:\\Users\\DIEGO\\CascadeProjects\\bolt-landing\\project\\.next\\static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "loc": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-32",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        920
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "static\\chunks\\724-faecb326ddbc4603.js": {
+      "name": "static\\chunks\\724-faecb326ddbc4603.js",
+      "chunks": [
+        662
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\724-faecb326ddbc4603.js",
+          "size": 20247
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 20247,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\783-a543962db09c6e10.js": {
+      "name": "static\\chunks\\783-a543962db09c6e10.js",
+      "chunks": [
+        209
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\783-a543962db09c6e10.js",
+          "size": 47998
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 47998,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\864-06470e952bd010c8.js": {
+      "name": "static\\chunks\\864-06470e952bd010c8.js",
+      "chunks": [
+        235
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\864-06470e952bd010c8.js",
+          "size": 102684
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 102684,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js": {
+      "name": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+      "chunks": [
+        154
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "size": 7144
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 7144,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\error-ae7d2009954bb063.js": {
+      "name": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+      "chunks": [
+        583
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "size": 1561
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 1561,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\layout-f0d02442d9637434.js": {
+      "name": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+      "chunks": [
+        428
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "size": 7470
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 7470,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\not-found-81b916937c5d460a.js": {
+      "name": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+      "chunks": [
+        275
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "size": 214
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 214,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\page-17c84bb64e1b9246.js": {
+      "name": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+      "chunks": [
+        161
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "size": 14340
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 14340,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js": {
+      "name": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+      "chunks": [
+        469
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "size": 162203
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 162203,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\framework-8883d1e9be70c3da.js": {
+      "name": "static\\chunks\\framework-8883d1e9be70c3da.js",
+      "chunks": [
+        394
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\framework-8883d1e9be70c3da.js",
+          "size": 138972
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 138972,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\main-app-30b15ee52aba41ef.js": {
+      "name": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+      "chunks": [
+        764
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "size": 465
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 465,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\main-c1ecd3cc57acaf13.js": {
+      "name": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+      "chunks": [
+        392
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "size": 108302
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 108302,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\pages\\_app-27277a117f49dcf1.js": {
+      "name": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+      "chunks": [
+        111
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "size": 282
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 282,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\pages\\_error-91a5938854a6f402.js": {
+      "name": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+      "chunks": [
+        278
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "size": 249
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 249,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\polyfills-c67a75d1b6f99dc8.js": {
+      "name": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+      "chunks": [
+        920
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "size": 91936
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 91936,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\webpack-8c7d3301aa95f133.js": {
+      "name": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+      "chunks": [
+        976
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "size": 3722
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 3722,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js": {
+      "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+      "chunks": [
+        582
+      ],
+      "assets": [
+        {
+          "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "size": 224
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 224,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js": {
+      "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+      "chunks": [
+        921
+      ],
+      "assets": [
+        {
+          "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "size": 81
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 81,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "static\\chunks\\724-faecb326ddbc4603.js": {
+      "name": "static\\chunks\\724-faecb326ddbc4603.js",
+      "chunks": [
+        662
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\724-faecb326ddbc4603.js",
+          "size": 20247
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 20247,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\783-a543962db09c6e10.js": {
+      "name": "static\\chunks\\783-a543962db09c6e10.js",
+      "chunks": [
+        209
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\783-a543962db09c6e10.js",
+          "size": 47998
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 47998,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\864-06470e952bd010c8.js": {
+      "name": "static\\chunks\\864-06470e952bd010c8.js",
+      "chunks": [
+        235
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\864-06470e952bd010c8.js",
+          "size": 102684
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 102684,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js": {
+      "name": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+      "chunks": [
+        154
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\apply\\page-1e0ed49c2fdee981.js",
+          "size": 7144
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 7144,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\error-ae7d2009954bb063.js": {
+      "name": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+      "chunks": [
+        583
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\error-ae7d2009954bb063.js",
+          "size": 1561
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 1561,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\layout-f0d02442d9637434.js": {
+      "name": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+      "chunks": [
+        428
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\layout-f0d02442d9637434.js",
+          "size": 7470
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 7470,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\not-found-81b916937c5d460a.js": {
+      "name": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+      "chunks": [
+        275
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\not-found-81b916937c5d460a.js",
+          "size": 214
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 214,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\app\\page-17c84bb64e1b9246.js": {
+      "name": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+      "chunks": [
+        161
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\app\\page-17c84bb64e1b9246.js",
+          "size": 14340
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 14340,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js": {
+      "name": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+      "chunks": [
+        469
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\fd9d1056-a4abffa2c91dfa48.js",
+          "size": 162203
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 162203,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\framework-8883d1e9be70c3da.js": {
+      "name": "static\\chunks\\framework-8883d1e9be70c3da.js",
+      "chunks": [
+        394
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\framework-8883d1e9be70c3da.js",
+          "size": 138972
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 138972,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\main-app-30b15ee52aba41ef.js": {
+      "name": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+      "chunks": [
+        764
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\main-app-30b15ee52aba41ef.js",
+          "size": 465
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 465,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\main-c1ecd3cc57acaf13.js": {
+      "name": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+      "chunks": [
+        392
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\main-c1ecd3cc57acaf13.js",
+          "size": 108302
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 108302,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\pages\\_app-27277a117f49dcf1.js": {
+      "name": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+      "chunks": [
+        111
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\pages\\_app-27277a117f49dcf1.js",
+          "size": 282
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 282,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\pages\\_error-91a5938854a6f402.js": {
+      "name": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+      "chunks": [
+        278
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\pages\\_error-91a5938854a6f402.js",
+          "size": 249
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 249,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\polyfills-c67a75d1b6f99dc8.js": {
+      "name": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+      "chunks": [
+        920
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\polyfills-c67a75d1b6f99dc8.js",
+          "size": 91936
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 91936,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\chunks\\webpack-8c7d3301aa95f133.js": {
+      "name": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+      "chunks": [
+        976
+      ],
+      "assets": [
+        {
+          "name": "static\\chunks\\webpack-8c7d3301aa95f133.js",
+          "size": 3722
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 3722,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js": {
+      "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+      "chunks": [
+        582
+      ],
+      "assets": [
+        {
+          "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_buildManifest.js",
+          "size": 224
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 224,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js": {
+      "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+      "chunks": [
+        921
+      ],
+      "assets": [
+        {
+          "name": "static\\PDArBR3lE2BvOfrNrsrXE\\_ssgManifest.js",
+          "size": 81
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 81,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": []
+}
