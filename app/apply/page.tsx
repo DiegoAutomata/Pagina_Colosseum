@@ -125,8 +125,6 @@ export default function ApplyPage() {
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-gray-900 to-black text-white p-4 md:p-8">
-      <h1>Datos desde el servidor</h1>
-      <pre>{JSON.stringify(data, null, 2)}</pre>
       <Link href="/" className="inline-flex items-center text-white hover:text-gray-300 transition-colors mb-8">
         <ArrowLeft className="w-4 h-4 mr-2" />
         Volver
