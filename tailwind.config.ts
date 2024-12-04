@@ -88,33 +88,6 @@ const config: Config = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-  purge: {
-    enabled: process.env.NODE_ENV === 'production',
-    content: [
-      './pages/**/*.{ts,tsx}',
-      './components/**/*.{ts,tsx}',
-      './app/**/*.{ts,tsx}',
-      './src/**/*.{ts,tsx}',
-    ],
-    options: {
-      safelist: [
-        'bg-gradient-to-b',
-        'from-[#2d3e48]',
-        'to-[#5c7d8f]',
-        'to-[#162026]',
-        'to-[#0d1418]',
-      ],
-      blocklist: [
-        'table-fixed',
-        'table-auto',
-        'invisible',
-        'opacity-0',
-        'scale-0',
-      ],
-      keyframes: true,
-      fontFace: true,
-    },
-  },
 } satisfies Config;
 
 export default config;

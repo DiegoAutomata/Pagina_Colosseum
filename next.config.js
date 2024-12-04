@@ -14,7 +14,6 @@ const nextConfig = {
     minimumCacheTTL: 60,
   },
   experimental: {
-    optimizeCss: true,
     optimizePackageImports: [
       '@radix-ui/react-accordion',
       '@radix-ui/react-dialog',

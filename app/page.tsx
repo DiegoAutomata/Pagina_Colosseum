@@ -66,7 +66,7 @@ export default function Home() {
             </div>
             
             {/* Columna para la imagen */}
-            <div className="hidden lg:flex justify-center items-start">
+            <div className="flex justify-center items-start">
               <div className="relative w-full max-w-md">
                 <Suspense fallback={<div className="w-full h-[768px] bg-gray-800 animate-pulse rounded-2xl" />}>
                   <ImageWithFallback
@@ -74,9 +74,8 @@ export default function Home() {
                     alt="Modelo en la playa con equipo de buceo"
                     width={512}
                     height={768}
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 512px"
                     className="w-full h-auto rounded-2xl hover:scale-105 transition-transform duration-500"
-                    quality={85}
+                    quality={100}
                     priority
                   />
                 </Suspense>
