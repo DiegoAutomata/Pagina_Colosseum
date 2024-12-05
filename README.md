@@ -1,4 +1,4 @@
-# Bolt Landing Page
+# Colosseum MGMT Landing Page
 
 A modern landing page built with Next.js, featuring a sleek UI powered by Radix UI components and Firebase integration.
 
