@@ -3,7 +3,11 @@ rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
     match /{document=**} {
-      allow read, write: if true;  // Esto es solo para desarrollo, en producción deberías restringirlo
+      // Cualquiera puede escribir (enviar formulario)
+      allow write: if true;
+      
+      // Solo el dueño puede leer (ver los datos)
+      allow read: if request.auth != null && request.auth.uid == "F6Q0RIAqvUcO7j0B34dmcLgXlQl1";
     }
   }
 }
