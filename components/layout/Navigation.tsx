@@ -46,63 +46,61 @@ const Navigation = () => {
 
   return (
     <header className={`fixed w-full z-50 transition-all duration-300 ${
-      isScrolled ? 'bg-[#486271]/80 backdrop-blur-md' : 'bg-transparent'
+      isScrolled ? 'bg-[#486271]/90 backdrop-blur-md shadow-lg' : 'bg-transparent'
     }`}>
-      <nav className="container mx-auto px-16 md:px-24">
-        <div className="flex justify-between items-center h-20">
-          <div className="flex-shrink-0 h-20">
+      <nav className="container mx-auto px-4 sm:px-6">
+        <div className="flex justify-between items-center h-16 sm:h-20">
+          <div className="flex-shrink-0 h-full">
             <button
               onClick={() => scrollToSection('home')}
               className="h-full flex items-center"
               aria-label="Ir al inicio"
             >
-              <Logo className="h-20 w-auto transform scale-150" />
+              <Logo className="h-full" />
             </button>
           </div>
 
-          {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-6">
             <button
               onClick={() => scrollToSection('home')}
-              className="text-white hover:text-[#00B6FF] transition-colors"
+              className="text-white hover:text-[#00B6FF] transition-colors text-sm lg:text-base"
             >
               Inicio
             </button>
             <span className="text-gray-400">|</span>
             <button
               onClick={() => scrollToSection('about')}
-              className="text-white hover:text-[#00B6FF] transition-colors"
+              className="text-white hover:text-[#00B6FF] transition-colors text-sm lg:text-base"
             >
               Sobre nosotros
             </button>
             <span className="text-gray-400">|</span>
             <button
               onClick={() => scrollToSection('services')}
-              className="text-white hover:text-[#00B6FF] transition-colors"
+              className="text-white hover:text-[#00B6FF] transition-colors text-sm lg:text-base"
             >
               Servicios
             </button>
             <span className="text-gray-400">|</span>
             <button
               onClick={() => scrollToSection('faq')}
-              className="text-white hover:text-[#00B6FF] transition-colors"
+              className="text-white hover:text-[#00B6FF] transition-colors text-sm lg:text-base"
             >
               FAQ
             </button>
             <span className="text-gray-400">|</span>
             <Link
               href="/apply"
-              className="px-6 py-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-full hover:shadow-lg hover:scale-105 transition-all duration-300"
+              className="px-4 py-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-full hover:shadow-lg hover:scale-105 transition-all duration-300 text-sm lg:text-base whitespace-nowrap"
             >
               Aplicar Ahora
             </Link>
           </div>
 
-          {/* Mobile menu button */}
           <div className="md:hidden">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="text-white p-2"
+              className="text-white p-2 hover:bg-white/10 rounded-lg transition-colors"
               aria-label={isMenuOpen ? 'Cerrar menú' : 'Abrir menú'}
             >
               {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
@@ -110,38 +108,41 @@ const Navigation = () => {
           </div>
         </div>
 
-        {/* Mobile Navigation */}
-        <div className={`md:hidden transition-all duration-300 ease-in-out ${
-          isMenuOpen ? 'max-h-64 opacity-100' : 'max-h-0 opacity-0'
-        } overflow-hidden`}>
-          <div className="py-4 space-y-4">
+        <div 
+          className={`md:hidden transition-all duration-300 ease-in-out ${
+            isMenuOpen 
+              ? 'max-h-[400px] opacity-100 visible' 
+              : 'max-h-0 opacity-0 invisible'
+          }`}
+        >
+          <div className="py-4 space-y-2 bg-[#486271]/95 backdrop-blur-md rounded-lg mt-2 px-4">
             <button
               onClick={() => scrollToSection('home')}
-              className="block w-full text-left px-4 py-2 text-white hover:bg-white/10 rounded-lg transition-colors"
+              className="block w-full text-left py-2 text-white hover:text-[#00B6FF] transition-colors text-sm"
             >
               Inicio
             </button>
             <button
               onClick={() => scrollToSection('about')}
-              className="block w-full text-left px-4 py-2 text-white hover:bg-white/10 rounded-lg transition-colors"
+              className="block w-full text-left py-2 text-white hover:text-[#00B6FF] transition-colors text-sm"
             >
               Sobre nosotros
             </button>
             <button
               onClick={() => scrollToSection('services')}
-              className="block w-full text-left px-4 py-2 text-white hover:bg-white/10 rounded-lg transition-colors"
+              className="block w-full text-left py-2 text-white hover:text-[#00B6FF] transition-colors text-sm"
             >
               Servicios
             </button>
             <button
               onClick={() => scrollToSection('faq')}
-              className="block w-full text-left px-4 py-2 text-white hover:bg-white/10 rounded-lg transition-colors"
+              className="block w-full text-left py-2 text-white hover:text-[#00B6FF] transition-colors text-sm"
             >
               FAQ
             </button>
             <Link
               href="/apply"
-              className="block mx-4 px-6 py-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-full hover:shadow-lg hover:scale-105 transition-all duration-300"
+              className="block w-full text-center py-2 mt-2 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-full hover:shadow-lg hover:scale-105 transition-all duration-300 text-sm"
             >
               Aplicar Ahora
             </Link>
